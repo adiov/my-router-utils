@@ -1,0 +1,61 @@
+#Samsung phone tracking
+vas.samsungapps.com
+app-measurement.com
+config-api.internet.apps.samsung.com
+
+#Facebook APIs
+graph.accountkit.com
+api.facebook.com
+graph.facebook.com
+
+#LG TV Ads and Tracking
+lgad.cjpowercast.com.edgesuite.net
+lgtvonline.lge.com
+ngfts.lge.com
+info.lgsmartad.com
+ad.lgsmartad.com
+snu.lge.com #NB this blocks firmware updates
+FI.lgtvsdp.com #NB this is specific to Finland. Change "FI" to your country code
+rdvs.alljoyn.org
+us-ad-lgsmartad-com.aws-prd.net
+
+#Netflix tracking
+customerevents.netflix.com
+customerevents.geo.netflix.com
+dockhand.netflix.com
+beacon.netflix.com
+api-global.netflix.com
+appboot.netflix.com
+nrdp.nccp.netflix.com
+ichnaea.netflix.com
+
+#Adobe tracking
+adobesc.com
+geo2.adobe.com
+broker.adobe.com
+ox-d.adobe.com
+sstats.adobe.com
+stats.adobe.com
+
+#Oculus
+graph.oculus.com
+skybox.xyz
+mqtt-mini.facebook.com
+edge-mqtt.facebook.com
+scontent.oculuscdn.com
+
+#Unity tracking
+config.uca.cloud.unity3d.com
+prd-lender.cdp.internal.unity3d.com
+thind-prd-knob.data.ie.unity3d.com
+thind-gke-euw.prd.data.corp.unity3d.com
+remote-config-proxy-prd.uca.cloud.unity3d.com
+
+#Microsoft Office tracking
+self.events.data.microsoft.com
+roaming.officeapps.live.com
+directory.services.live.com
+odc.officeapps.live.com
+contentstorage.osi.office.net
+outlook.office365.com
+storage.live.com
