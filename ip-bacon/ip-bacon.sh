@@ -4,7 +4,7 @@ DO_API_TOKEN="abcde1234567890"
 DOMAIN="example.com"
 SUBDOMAIN="router"
 RECORD_ID="123456789"
-IP_GET_URL="https://canhazip.com/"
+IP_GET_URL="http://checkip.amazonaws.com/"
 
 cd "$(dirname "$0")"
 
